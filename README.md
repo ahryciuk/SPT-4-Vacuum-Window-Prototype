@@ -15,6 +15,9 @@ The FEA predicted a maximum deflection of 22.03 millimeters. I absorbed this usi
 
 The story is complicated by the creep properties of UHMWPE. This behavior is well-understood in the field of prosthetics, but we were unsure how this would affect this design. To gain an understanding of the deflection behavior as a function of time, I designed and built an in-lab prototype window assembly using positive pressure instead of vacuum to minimize the material used. The positive pressure was added with compressed nitrogen and a pressure regulator with the appropriate NPT-threaded valve interfaces. 
 
+<p align="center">
+  <img src="final_CAD_renders/prototype_window_setup.PNG" width="500">
+</p>
 
 I then performed deflection measurements as a function of time for 7 cycles (or when the cylinder ran out). Fitting this data to a creep model allowed me to build an understanding of the time-dependent behavior.
 
