@@ -43,5 +43,8 @@ I tried to build a more detailed FEA from this information, but was unable to ge
 ## Summary of Results:
 - deflections are too high and a thicker window is needed
 - more IR filtering compensates the higher optical load from the 10 millimeter thick HDPE window
+- BICEP/Keck has explored additional options using Dyneema sandiwched between layers of Low-density polyethylene (Eiben et al.)
 
 ## Files:
+- Python fitting code: /python_code/
+- CAD renderings: /final_CAD_renders/
