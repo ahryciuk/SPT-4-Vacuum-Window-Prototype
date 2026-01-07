@@ -7,11 +7,12 @@ The prototype assembly and creep deflection tests of the Ultra-high molecular we
 
 I calculated the initial deflection using thin plate theory, which necessitated adding an aluminum stiffening plate below the window with seven aperture cutouts. I defined a static FEA for the quarter-symmetry window assembly subjected to atmospheric pressure. The circumference was constrained by a bolt sandwich with a pre-torque of 80 N-m (wrench tight). The bottom face of the subassembly is fixed as it abuts the axis of the cylinder which is quite stiff.
 
-The FEA predicted a maximum deflection of 22.03 millimeters. I absorbed this using G10 shims on the Zotefoam IR filter stack to increase the spacing. Further there was some yielding in the aluminum stiffening plate between the aperture holes, but we do not think it will be an issue since a little plastic deformation won't compromise it's purpose.
 
 <p align="center">
   <img src="final_CAD_renders/windowFEA.PNG" width="500">
 </p>
+
+The FEA predicted a maximum deflection of 22.03 millimeters. I absorbed this using G10 shims on the Zotefoam IR filter stack to increase the spacing. Further there was some yielding in the aluminum stiffening plate between the aperture holes, but we do not think it will be an issue since a little plastic deformation won't compromise it's purpose.
 
 The story is complicated by the creep properties of UHMWPE. This behavior is well-understood in the field of prosthetics, but we were unsure how this would affect this design. To gain an understanding of the deflection behavior as a function of time, I designed and built an in-lab prototype window assembly using positive pressure instead of vacuum to minimize the material used. The positive pressure was added with compressed nitrogen and a pressure regulator with the appropriate NPT-threaded valve interfaces. 
 
@@ -19,7 +20,7 @@ The story is complicated by the creep properties of UHMWPE. This behavior is wel
   <img src="final_CAD_renders/prototype_window_setup.PNG" width="500">
 </p>
 
-I then performed deflection measurements as a function of time for 7 cycles (or when the cylinder ran out). I converted the deflection to strain using geometric arguments. Fitting this data to a creep model then allowed me to build an understanding of the time-dependent behavior.
+With this prototype assembly, I performed deflection measurements as a function of time for 7 cycles (or when the cylinder ran out). I converted the deflection to strain using geometric arguments. Fitting this data to a creep model then allowed me to build an understanding of the time-dependent behavior.
 
 <p align="center">
   <img src="final_CAD_renders/UHMW_creep_fit.PNG" width="500">
