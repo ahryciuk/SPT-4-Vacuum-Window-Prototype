@@ -43,12 +43,14 @@ I tried to build a more detailed FEA from this information, but was unable to ge
 ## Summary of Results:
 - deflections are too high and a thicker window is needed
 - more IR filtering compensates the higher optical load from the 10 millimeter thick HDPE window
-- BICEP/Keck has explored additional options using Dyneema sandiwched between layers of Low-density polyethylene (Eiben et al.)
+- BICEP/Keck has explored additional options using Dyneema sandiwched between layers of Low-density polyethylene (Eiben et al. 2022)
 
 ## Files:
 - Python fitting code: /python_code/
 - CAD renderings: /final_CAD_renders/
 
 ## Bibliography:
+- Eiben, M., Barkats, D., Balkanski, A., et al. 2022, Laminate polyethylene window development for large aperture millimeter receivers. https://arxiv.org/abs/2208.01088
+
 All figures from
 - Hryciuk, Alexander. 2025. “The SPT-3G Wide Survey Galaxy Cluster Catalog and the SPT-3G+ Cryostat Design.” University of Chicago. https://doi.org/10.6082/UCHICAGO.15844.
