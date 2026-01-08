@@ -48,3 +48,7 @@ I tried to build a more detailed FEA from this information, but was unable to ge
 ## Files:
 - Python fitting code: /python_code/
 - CAD renderings: /final_CAD_renders/
+
+## Bibliography:
+All figures from
+- Hryciuk, Alexander. 2025. “The SPT-3G Wide Survey Galaxy Cluster Catalog and the SPT-3G+ Cryostat Design.” University of Chicago. https://doi.org/10.6082/UCHICAGO.15844.
