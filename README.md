@@ -20,7 +20,7 @@ The story is complicated by the creep properties of UHMWPE. This behavior is wel
   <img src="final_CAD_renders/prototype_window_setup.PNG" width="500">
 </p>
 
-With this prototype assembly, I performed deflection measurements as a function of time for 7 cycles (or when the cylinder ran out). I converted the deflection to strain using geometric arguments. Fitting this data to a creep model then allowed me to build an understanding of the time-dependent behavior.
+With this prototype assembly, I performed deflection measurements as a function of time for 7 cycles (or when the cylinder ran out). I converted the deflection to strain using geometric arguments. Curve-fitting this data to the Bailey-Norton creep model ($\epsilon_c = C_0 \sigma^{C_1}t^{C_2}$) then allowed me to build an understanding of the time-dependent behavior.
 
 <p align="center">
   <img src="final_CAD_renders/UHMW_creep_fit.PNG" width="500">
